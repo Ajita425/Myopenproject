@@ -1,0 +1,5 @@
+this is chat application where we can have conversations which is secured.
+type option
+emoji
+colored 
+sticker
